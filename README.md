@@ -8,4 +8,4 @@
 
 ## INSTRUÇÕES
 
-Execute o arquivo `init/start.sh` e o projeto será executado automaticamente.
+Execute o arquivo `start.sh` e o projeto será executado automaticamente.

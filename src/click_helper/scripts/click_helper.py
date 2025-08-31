@@ -17,5 +17,3 @@ pyautogui.moveTo(100)
 
 pyautogui.write("Hello, World!")
 print('Done')
-
-# básico já foi. agora preciso cuidar de todas as outras partes.

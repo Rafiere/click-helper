@@ -2,6 +2,7 @@
 
 sudo apt install -y python3-tk python3-dev
 
+poetry lock
 poetry install
 
-poetry run python src/click_helper/scripts/click_helper.py
+poetry run python -m src.click_helper.scripts.click_helper

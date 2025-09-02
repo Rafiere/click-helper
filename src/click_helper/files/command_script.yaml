@@ -1,4 +1,4 @@
-- LOG: "Initializing script"
+- LOG: "Initializing 'click-helper' command script"
 - WAIT: 1
 - WAIT: 1
 - OPEN_PROCESS: ["google-chrome"] # Open Google Chrome

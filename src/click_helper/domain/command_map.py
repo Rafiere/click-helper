@@ -1,8 +1,4 @@
-import click_helper.handlers.keyboard_handler as keyboard_handler
-import click_helper.handlers.log_handler as log_handler
-import click_helper.handlers.mouse_handler as mouse_handler
-import click_helper.handlers.process_handler as process_handler
-import click_helper.handlers.util_handler as util_handler
+from src.click_helper.handlers import util_handler, log_handler, keyboard_handler, process_handler, mouse_handler
 
 COMMAND_MAP = {
     "WAIT": util_handler.handle_wait,

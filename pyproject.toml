@@ -1,13 +1,14 @@
 [project]
 name = "click-helper"
 version = "0.0.1"
-description = ""
+description = "A simple utility for automating clicks and commands in an application."
 authors = []
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "pyautogui>=0.9.53",
     "pyyaml>=6.0.2",
+    "structlog>=22.1.0",
 ]
 
 [tool.poetry]

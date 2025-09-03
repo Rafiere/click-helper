@@ -1,4 +1,4 @@
-<p style="text-align: center"><img src="docs/images/logo/horizontal-521x150.png" alt="click-helper-logo"></p>
+<p style="text-align: center"><img src="docs/images/logo/click-helper-logo.jpg" alt="click-helper-logo"></p>
 
 # click-helper - automate your GUI with a simple, human-friendly language
 

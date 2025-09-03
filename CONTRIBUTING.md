@@ -1,7 +1,5 @@
 # CONTRIBUTING TO CLICK-HELPER
 
-## CONTRIBUTING
-
 - Thank you for your interest in contributing to our project. The active participation of the community is vital to the continuous growth and improvement of open-source software. Your contributions, whether in the form of code, bug reports, or documentation, are essential for enhancing the quality and functionality of this project.
 
 ## TIPS FOR PULL REQUESTS
